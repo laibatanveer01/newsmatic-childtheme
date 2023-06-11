@@ -1,0 +1,1 @@
+# newsmatic-childtheme
